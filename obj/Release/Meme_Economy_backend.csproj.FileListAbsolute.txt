@@ -1,0 +1,13 @@
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Meme_Economy_backend.exe.config
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Meme_Economy_backend.exe
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Meme_Economy_backend.pdb
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Grapevine.dll
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Nancy.dll
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Nancy.Hosting.Self.dll
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Newtonsoft.Json.dll
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Nancy.xml
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Nancy.Hosting.Self.xml
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\bin\Release\Newtonsoft.Json.xml
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\obj\Release\Meme_Economy_backend.csprojResolveAssemblyReference.cache
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\obj\Release\Meme_Economy_backend.exe
+C:\Users\Naxual\Documents\Visual Studio 2015\Projects\Meme_Economy_backend\Meme_Economy_backend\obj\Release\Meme_Economy_backend.pdb
